@@ -1,9 +1,8 @@
-# AI-for-Ethics-Seminar-Oxford-University-
-AI for Ethics : The Transformative Effects of Technology 
+<p align="center">
+  <img src="https://github.com/naman-dixit00/AI-for-Ethics-Seminar-Oxford-University-/blob/main/Oxford%20University%20_AI%20for%20Ethics.png" width="100%" title="Seminar Header">
+</p>
 
----
-## Ethics in AI Lunchtime Research Seminar
-
+# AI for Ethics Seminar : The Transformative Effects of Technology
 **Institute for Ethics in AI, University of Oxford**
 **Date:** Wednesday, 4 February
 **Time:** 12:30–1:30 PM (GMT)
@@ -102,3 +101,14 @@ The session provided a strong conceptual foundation for aligning **Ethics for AI
 ## Keywords
 
 AI Ethics • Algorithmic Governance • AI Security • Explainability • Institutional AI • Human-in-the-loop Systems • Socio-Technical Risk
+
+---
+---
+
+### Attribution & Disclaimer
+
+> **Academic Integrity & Usage Note:** > 1. **Visual Assets:** The branding, typography, and official logo of the **Institute for Ethics in AI, University of Oxford** included in this repository are utilized strictly for **academic reference and representational purposes**.   
+> 2. **Repository Content:** All research notes, summaries, and technical syntheses contained herein are derived from the seminar *"The ‘Public’, Disrupted: The Transformative Effects of Technology on Democracy"* presented by **Dr. Neli Frost**.   
+> 3. **Non-Affiliation:** This repository is an independent student-led documentation of the seminar proceedings. All intellectual property rights regarding the official logo and institutional branding belong exclusively to the **University of Oxford**. This project does not claim any official affiliation with, or endorsement by, the University.  
+
+---
